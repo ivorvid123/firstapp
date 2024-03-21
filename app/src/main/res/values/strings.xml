@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aplikacija21.3</string>
+    <string name="edit_message">Napiši poruku</string>
+    <string name="button_send">Pošalji</string>
+</resources>
